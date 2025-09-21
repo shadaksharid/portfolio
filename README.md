@@ -21,10 +21,6 @@ This is my personal **portfolio website** built with **React + Vite**, showcasin
 
 ---
 
-## 📸 Preview
-(Add a screenshot of your portfolio after running `npm run dev`)
-
----
 
 ## 🛠️ Setup & Run Locally
 
