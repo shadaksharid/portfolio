@@ -30,5 +30,5 @@ This is my personal **portfolio website** built with **React + Vite**, showcasin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shadaksharid/portfolio-website.git
+   git clone https://github.com/shadaksharid/portfolio.git
    cd portfolio-website
