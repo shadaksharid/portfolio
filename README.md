@@ -9,7 +9,7 @@ This is my personal **portfolio website** built with **React + Vite**, showcasin
 ## 🚀 Tech Stack
 - **Frontend:** React, Vite, Bootstrap, Framer Motion, React Icons
 - **Styling:** CSS, Bootstrap
-- **Deployment:** GitHub Pages / Netlify / Vercel (to be added)
+- **Deployment:** Netlify 
 
 ---
 
