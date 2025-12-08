@@ -212,7 +212,7 @@ export default function Portfolio() {
                   </motion.a>
                 ))}
                 <motion.a 
-                    href="/hadakshari_resume.pdf" 
+                    href="/Shadakshari_resume.pdf" 
                     className="btn btn-outline-secondary"
                     variants={badgeAnimation}
                     whileHover={{ scale: 1.1 }}
